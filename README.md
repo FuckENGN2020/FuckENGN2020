@@ -14,4 +14,4 @@ The idea that there would be a math course that magically satisfies all engineer
 $ python3 fuckEngn2020.py
 
 ### What to Expect
-The hello word script prints "Fuck ENGN2020" for six hundred and sixty six times.
+The hello word script prints "Fuck ENGN2020" for six hundred and sixty six times. For imprint the 666 mark of beast.
