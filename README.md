@@ -10,4 +10,8 @@ Someone suffering from the all the BS from this course that has absolutely nothi
 The idea that there would be a math course that magically satisfies all engineering majors is stupid. 
 
 ## Usage
-I don't care.
+### How to Run
+$ python3 fuckEngn2020.py
+
+### What to Expect
+The hello word script prints "Fuck ENGN2020" for six hundred and sixty six times.
